@@ -5,7 +5,7 @@ The program recognizes the sequence of the symbol and sends an email with a scre
 Hackathon_2021
 
 Demo:
-ASS
+
 ![Demo](demo.gif)
 
 An artical about the project:
